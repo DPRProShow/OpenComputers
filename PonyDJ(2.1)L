@@ -1,7 +1,7 @@
 {
   label = "PonyDJ (2.1)",
   tooltip = "Model by ProShow. Покупайте у нас!!!",
-  lightLevel = 10,
+  lightLevel = 15,
   shapes = {
     { 0,0,15,2,3,16,texture = "iron_block", tint = 0x8c5cc0 },
     { 2,0,15,3,3,16,texture = "iron_block", tint = 0x9536aa },
