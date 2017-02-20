@@ -1,11 +1,11 @@
 {
-  label = "Livnevaya truba",
+  label = "Ливневая труба",
   tooltip = "Model by ProShow. Покупайте у нас!!!",
   lightLevel = 10,
   shapes = {
-    { 6,0,13,7,16,15,texture = "iron_block", tint = 0x000000 },
-    { 7,0,12,10,16,13,texture = "iron_block", tint = 0x000000 },
-    { 7,0,15,10,16,16,texture = "iron_block", tint = 0x000000 },
-    { 10,0,13,11,16,15,texture = "iron_block", tint = 0x000000 },
+    { 6,0,13,7,16,15,texture = "iron_block", tint = 0xeeeeee },
+    { 7,0,12,10,16,13,texture = "iron_block", tint = 0xeeeeee },
+    { 7,0,15,10,16,16,texture = "iron_block", tint = 0xeeeeee },
+    { 10,0,13,11,16,15,texture = "iron_block", tint = 0xeeeeee },
   }
 }
