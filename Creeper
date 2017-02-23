@@ -1,0 +1,29 @@
+{
+ label = "Плитка 'Морда крипера'",
+ emitRedstone = true,
+ buttonMode = false,
+ tooltip = "Секретный рычаг в виде головы крипера"
+
+ shapes={  {0,14,7, 16,16,9, texture="quartz_block_side", tint=0x8eb200},
+  {0,2,7,  2,14,9,  texture="quartz_block_side", tint=0x8eb200},
+  {6,10,7, 10,14,9, texture="quartz_block_side", tint=0x8eb200},
+  {14,2,7, 16,14,9, texture="quartz_block_side", tint=0x8eb200},
+  {2,2,7,  4,10,9,  texture="quartz_block_side", tint=0x8eb200},
+  {4,8,7,  6,10,9,  texture="quartz_block_side", tint=0x8eb200},
+  {10,8,7, 12,10,9, texture="quartz_block_side", tint=0x8eb200},
+  {12,2,7, 14,10,9, texture="quartz_block_side", tint=0x8eb200},
+  {6,2,7,  10,4,9,  texture="quartz_block_side", tint=0x8eb200},
+  {0,0,7,  16,2,9,  texture="quartz_block_side", tint=0x8eb200},
+
+  {0,14,7, 16,16,9, texture="quartz_block_side", tint=0x8eb200, state=true},
+  {0,2,7,  2,14,9,  texture="quartz_block_side", tint=0x8eb200, state=true},
+  {6,10,7, 10,14,9, texture="quartz_block_side", tint=0x8eb200, state=true},
+  {14,2,7, 16,14,9, texture="quartz_block_side", tint=0x8eb200, state=true},
+  {2,2,7,  4,10,9,  texture="quartz_block_side", tint=0x8eb200, state=true},
+  {4,8,7,  6,10,9,  texture="quartz_block_side", tint=0x8eb200, state=true},
+  {10,8,7, 12,10,9, texture="quartz_block_side", tint=0x8eb200, state=true},
+  {12,2,7, 14,10,9, texture="quartz_block_side", tint=0x8eb200, state=true},
+  {6,2,7,  10,4,9,  texture="quartz_block_side", tint=0x8eb200, state=true},
+  {0,0,7,  16,2,9,  texture="quartz_block_side", tint=0x8eb200, state=true},
+  {2,2,8,  14,14,9, texture="quartz_block_side", tint=0xe0301e, state=true}
+}}
